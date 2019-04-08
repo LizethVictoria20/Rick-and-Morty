@@ -1,0 +1,14 @@
+body {
+  background: #000000;
+}
+.logo {
+  width: 600px;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+.btn {
+  width: 800px;
+  display: block;
+  margin: auto;
+}

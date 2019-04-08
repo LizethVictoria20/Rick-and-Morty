@@ -1,0 +1,10 @@
+.card {
+  margin-bottom: 60px;
+  background: #4eb0c9;
+}
+h4 {
+  text-align: center;
+}
+.card-body {
+  height: 80px;
+}
